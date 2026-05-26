@@ -93,10 +93,10 @@ design:
   theme: engineeringresumes
   page:
     size: a4
-    top_margin: 1.1cm
-    bottom_margin: 1.1cm
-    left_margin: 1.1cm
-    right_margin: 1.1cm
+    top_margin: 1.2cm
+    bottom_margin: 1.2cm
+    left_margin: 1.2cm
+    right_margin: 1.2cm
     show_page_numbering: false
     show_last_updated_date: false
   colors:
