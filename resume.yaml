@@ -11,7 +11,7 @@ cv:
   website: "https://anusha22roy.github.io"
   social_networks:
     - network: "LinkedIn"
-      username: "anusha-roy-10204b261"
+      username: "anusha-santanu-roy"
     - network: "GitHub"
       username: "Anusha22Roy"
 
@@ -133,18 +133,18 @@ design:
     #                   Use this if applying to traditional banks, law firms, or PhD research roles.
     # EB Garamond: The "Classy" choice. Old-style serif. Looks like a book. High prestige, low "tech" vibe.
     font_family: Inter
-    font_size: 10pt
+    font_size: 10.2pt
     alignment: justified
     date_and_location_column_alignment: right
     leading: "0.65em"
   header:
     name_font_family: Inter
-    name_font_size: 18pt
+    name_font_size: 20pt
     name_bold: true
     small_caps_for_name: false
     photo_width: 3.5cm
     vertical_space_between_name_and_connections: 0.4cm
-    vertical_space_between_connections_and_first_section: 0.4cm
+    vertical_space_between_connections_and_first_section: 0.6cm
     horizontal_space_between_connections: 0.25cm
     connections_font_family: Inter
     separator_between_connections: '|'
@@ -157,7 +157,7 @@ design:
     font_size: 1.5em
     bold: true
     small_caps: true
-    vertical_space_above: 0.4cm
+    vertical_space_above: 0.5cm
     vertical_space_below: 0.2cm
   entries:
     date_and_location_width: 4cm
